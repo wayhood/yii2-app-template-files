@@ -1,0 +1,20 @@
+{
+    "name": "wayhood/yii2-app-template-files",
+    "description": "Yii 2 Application Template Files",
+    "keywords": ["yii2", "framework", "advanced", "application template", "file"],
+    "homepage": "https://github.com/wayhood/yii2-app-template-files",
+    "type": "template",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/wayhood/yii2-app-template-files/issues?state=open",
+        "source": "https://github.com/wayhood/yii2-app-template-files"
+    },
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "config": {
+        "process-timeout": 1800
+    }
+}
